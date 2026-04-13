@@ -1,0 +1,7 @@
+{
+  "name": "limbicus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
