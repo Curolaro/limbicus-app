@@ -1,6 +1,6 @@
 export interface User {
     uid: string;
-    ome: string;
+    nome: string;
     email: string;
     data_criacao: number;
     cargo: 'user' | 'adm';
