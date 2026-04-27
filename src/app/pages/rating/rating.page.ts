@@ -4,6 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-rating',
   templateUrl: './rating.page.html',
   styleUrls: ['./rating.page.scss'],
+  standalone: false,
 })
 export class RatingPage implements OnInit {
 

@@ -4,6 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-suggestions',
   templateUrl: './suggestions.page.html',
   styleUrls: ['./suggestions.page.scss'],
+  standalone: false,
 })
 export class SuggestionsPage implements OnInit {
 
